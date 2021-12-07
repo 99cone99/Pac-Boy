@@ -1,0 +1,4 @@
+Background - #8aac0f
+Light Pixel - #758c0e
+Normal Pixel - #617509
+Shadow Pixel - #54660a
